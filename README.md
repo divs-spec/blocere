@@ -196,6 +196,7 @@ MIT License - see LICENSE file for details
 ## 📧 Contact
 
 Project Link: https://github.com/divs-spec/blocere
+
 Email Address : ikrakizoi2607@gmail.com
 
 ---
