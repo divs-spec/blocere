@@ -1,7 +1,3 @@
-// ========================================
-// DEPLOYMENT_GUIDE.md
-// ========================================
-
 # NeuroVault Deployment Guide
 
 ## 📋 Pre-Deployment Checklist
@@ -20,7 +16,7 @@
 ### 1. Clone and Setup
 
 ```bash
-git clone https://github.com/yourusername/neurovault.git
+git clone https://github.com/divs-spec/neurovault.git
 cd neurovault
 chmod +x scripts/setup-dev-environment.sh
 ./scripts/setup-dev-environment.sh
